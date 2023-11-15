@@ -1,0 +1,1 @@
+import funcao from './module.jms'
