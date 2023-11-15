@@ -1,1 +1,6 @@
-import funcao from './module.jms'
+function teste (): number {
+  return 1
+}
+
+teste()
+
